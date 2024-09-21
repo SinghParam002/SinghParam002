@@ -1,4 +1,4 @@
-![logo](https://github.com/SinghParam002/SinghParam002/blob/main/programmer_text_2.jpg)
+![logo](https://github.com/SinghParam002/SinghParam002/blob/main/image%20pro.png)
 <h1 align="center">Hi 👋, I'm Paramjeet Singh</h1>
 <h3 align="center">Future Software Engineer | Passionate Spring Boot & Java Developer | Innovating with Technology</h3>
 
